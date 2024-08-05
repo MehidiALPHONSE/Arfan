@@ -1,0 +1,498 @@
+[
+  {
+    "english": "apple",
+    "bangla": "আপেল"
+  },
+  {
+    "english": "banana",
+    "bangla": "কলা"
+  },
+  {
+    "english": "cat",
+    "bangla": "বিড়াল"
+  },
+  {
+    "english": "dog",
+    "bangla": "কুকুর"
+  },
+  {
+    "english": "flower",
+    "bangla": "ফুল"
+  },
+  {
+    "english": "bard",
+    "bangla": "পাখি"
+  },
+  {
+    "english": "bear",
+    "bangla": "ভালুক"
+  },
+  {
+    "english": "boat",
+    "bangla": "নৌকা"
+  },
+  {
+    "english": "book",
+    "bangla": "বই"
+  },
+  {
+    "english": "dog",
+    "bangla": "কুকুর"
+  },
+  {
+    "english": "door",
+    "bangla": "দরজা"
+  },
+  {
+    "english": "egg",
+    "bangla": "ডিম"
+  },
+  {
+    "english": "elephant",
+    "bangla": "হাতি"
+  },
+  {
+    "english": "eye",
+    "bangla": "চোখ"
+  },
+  {
+    "english": "fish",
+    "bangla": "মাছ"
+  },
+  {
+    "english": "foot",
+    "bangla": "পা"
+  },
+  {
+    "english": "cloth",
+    "bangla": "কাপর"
+  },
+  {
+    "english": "comment",
+    "bangla": "মন্তব্য"
+  },
+  {
+    "english": "comfortable",
+    "bangla": "আরামপ্রদ"
+  },
+  {
+    "english": "true",
+    "bangla": "সত্য"
+  },
+  {
+    "english": "citizen",
+    "bangla": "নাগরিক"
+  },
+  {
+    "english": "clean",
+    "bangla": "পরিস্কার"
+  },
+  {
+    "english": "collect",
+    "bangla": "সংগ্রহ"
+  },
+  {
+    "english": "cold",
+    "bangla": "ঠান্ডা"
+  },
+  {
+    "english": "climb",
+    "bangla": "আরোহন"
+  },  
+  {
+    "english": "color",
+    "bangla": "রং"
+  },
+  {
+    "english": "choose",
+    "bangla": "পছন্দ করা"
+  },
+  {
+    "english": "build",
+    "bangla": "নির্মান"
+  },
+  {
+    "english": "bridge",
+    "bangla": "সেতু"
+  },
+  {
+    "english": "brilliant",
+    "bangla": "জ্ঞানী"
+  },
+  {
+    "english": "clock",
+    "bangla": "ঘড়ি"
+  },
+  {
+    "english": "attention",
+    "bangla": "মনোযোগ"
+  },
+  {
+    "english": "advertise",
+    "bangla": "বিজ্ঞাপন"
+  },
+  {
+    "english": "act",
+    "bangla": "আইন"
+  },
+  {
+    "english": "art",
+    "bangla": "শিল্প"
+  },
+  {
+    "english": "animal",
+    "bangla": "পশু"
+  },
+  {
+    "english": "adult",
+    "bangla": "প্রাপ্তবয়স্ক"
+  },
+  {
+    "english": "announced",
+    "bangla": "ঘোষনা"
+  },
+  {
+    "english": "authentic",
+    "bangla": "খাটি"
+  },
+  {
+    "english": "agreement",
+    "bangla": "চুক্তি"
+  },
+  {
+    "english": "love",
+    "bangla": "ভালোবাসা"
+  },
+  {
+    "english": "happiness",
+    "bangla": "সুখ"
+  },
+  {
+    "english": "family",
+    "bangla": "পরিবার"
+  },
+  {
+    "english": "friendship",
+    "bangla": "বন্ধুক্ত"
+  },
+  {
+    "english": "peace",
+    "bangla": "শান্তি"
+  },
+  {
+    "english": "joy",
+    "bangla": "আনন্দ"
+  },
+  {
+    "english": "success",
+    "bangla": "সাফল্য"
+  },
+  {
+    "english": "health",
+    "bangla": "স্বাস্থ্য"
+  },
+  {
+    "english": "kindness",
+    "bangla": "দয়া"
+  },
+  {
+    "english": "gratitude",
+    "bangla": "কৃতজ্ঞতা"
+  },
+  {
+    "english": "compassion",
+    "bangla": "সমবেদনা"
+  },
+  {
+    "english": "wholeness",
+    "bangla": "সম্পূর্ণতা"
+  },
+  {
+    "english": "mindfulness",
+    "bangla": "মননশীলতা"
+  },
+  {
+    "english": "Resilience",
+    "bangla": "স্থিতিস্থাপকতা"
+  },
+  {
+    "english": "clarity",
+    "bangla": "স্বচ্ছতা"
+  },
+  {
+    "english": "grace",
+    "bangla": "দীপ্তি"
+  },
+  {
+    "english": "obedience",
+    "bangla": "আনুগত্য"
+  },
+  {
+    "english": "determination",
+    "bangla": "সংকল্প"
+  },
+  {
+    "english": "decency",
+    "bangla": "শালীনতা"
+  },
+  {
+    "english": "patriotism",
+    "bangla": "দেশপ্রেম"
+  },
+  {
+    "english": "fairness",
+    "bangla": "ন্যায্যতা"
+  },
+  {
+    "english": "dignity",
+    "bangla": "মর্যাদা"
+  },
+  {
+    "english": "contentment",
+    "bangla": "তৃপ্তি"
+  },
+  {
+    "english": "tolerance",
+    "bangla": "সহনশীলতা"
+  },
+  {
+    "english": "humbleness",
+    "bangla": "নম্রতা"
+  },
+  {
+    "english": "focus",
+    "bangla": "লক্ষ্য"
+  },
+  {
+    "english": "organisation",
+    "bangla": "সংগঠন"
+  },
+  {
+    "english": "dedication",
+    "bangla": "উৎসর্গ"
+  },
+  {
+    "english": "ambition",
+    "bangla": "উচ্চাকাঙ্ক্ষা"
+  },
+  {
+    "english": "responsibility",
+    "bangla": "দায়িত্ব"
+  },
+  {
+    "english": "boldness",
+    "bangla": "সাহস"
+  },
+  {
+    "english": "wellness",
+    "bangla": "সুস্থতা"
+  },
+  {
+    "english": "positivity",
+    "bangla": "ইতিবাচকতা"
+  },
+  {
+    "english": "freedom",
+    "bangla": "স্বাধীনতা"
+  },
+  {
+    "english": "respect",
+    "bangla": "সম্মান"
+  },
+  {
+    "english": "reflection",
+    "bangla": "প্রতিফলন"
+  },
+  {
+    "english": "imagination",
+    "bangla": "কল্পনা"
+  },
+  {
+    "english": "unity",
+    "bangla": "ঐক্য"
+  },
+  {
+    "english": "loyalty",
+    "bangla": "আনুগত্য"
+  },
+  {
+    "english": "flexibility",
+    "bangla": "নমনীয়তা"
+  },
+  {
+    "english": "Honesty",
+    "bangla": "সৎ"
+  },
+  {
+    "english": "passion",
+    "bangla": "আবেগ"
+  },
+  {
+    "english": "creativity",
+    "bangla": "সৃজনশীলতা"
+  },
+  {
+    "english": "support",
+    "bangla": "সমথর্ন"
+  },
+  {
+    "english": "hope",
+    "bangla": "আশা"
+  },
+  {
+    "english": "trust",
+    "bangla": "বিশ্বাস"
+  },
+  {
+    "english": "Justice",
+    "bangla": "বিচার"
+  },
+  {
+    "english": "beauty",
+    "bangla": "সৌন্দর্য"
+  },
+  {
+    "english": "laughter",
+    "bangla": "হাস্যকর"
+  },
+  {
+    "english": "faith",
+    "bangla": "বিশ্বাস"
+  },
+  {
+    "english": "independence",
+    "bangla": "স্বাধীনতা"
+  },
+  {
+    "english": "growth",
+    "bangla": "বৃদ্ধি"
+  },
+  {
+    "english": "Regular",
+    "bangla": "নিয়মিত"
+  },
+  {
+    "english": "discipline",
+    "bangla": "নিয়মকানুন"
+  },
+  {
+    "english": "knowledge",
+    "bangla": "জ্ঞান"
+  },
+  {
+    "english": "confess", 
+    "bangla": "শিকার"
+  },
+  {
+    "english":  "mount",
+    "bangla": "পর্বত" 
+  },
+  {
+    "english": "boil",
+    "bangla": "সিদ্ধ করা "
+  },
+  {
+    "english": "innocent",
+    "bangla": "নির্দোষ "
+  },
+  {
+    "english": "struggle",
+    "bangla": "উৎসর্গ করা"
+  },
+  {
+    "english": "sacrifice",
+    "bangla": "ত্যাগ করা "
+  },
+  {
+    "english": "abuse",
+    "bangla": "অপব্যবহার"
+  },
+  {
+    "english": "hungry",
+    "bangla": "ক্ষুধার্ত"
+  },
+  {
+    "english": "dig",
+    "bangla": "খনন করা"
+  },
+  {
+    "english": "maize",
+    "bangla": "ভুট্টা"
+  },
+  {
+    "english": "soul",
+    "bangla": "আত্মা"
+  },
+  {
+    "english": "brick",
+    "bangla": "ইট" 
+  },
+  { 
+    "english": "dish",
+    "bangla": "থালা"
+  },
+  {
+    "english": "accept",
+    "bangla": "গ্রহণ করা"
+  },
+  {
+    "english": "city",
+    "bangla": "শহর"
+  },
+  {
+    "english": "hill",
+    "bangla": "পাহাড়"
+  },
+  {
+    "english": "mosque",
+    "bangla": "মসজিদ"
+  },
+  { 
+    "english": "temple",
+    "bangla": "মন্দির"
+  },
+  {
+    "english": "anxious",
+    "bangla": "উদ্বিগ্ন"
+  },
+  {
+    "english": "area",
+    "bangla": "আয়তন"
+  },
+  {
+    "english": "approval",
+    "bangla": "অনুমোদন"
+  },
+  {
+    "english": "cheap",
+    "bangla": "সস্তা"
+  },
+  {
+    "english": "cheat",
+    "bangla": "ঠকানো"
+  },
+  { 
+    "english": "cheese",
+    "bangla": "পনির"
+  },
+  {
+    "english": "chew",
+    "bangla": "চিবানো"
+  },
+  {
+    "english": "editor",
+    "bangla": "সম্পাদক"
+  },
+  {
+    "english": "fusion",
+    "bangla": "গলন"
+  },
+  {
+    "english": "hell",
+    "bangla": "নরক"
+  },
+  {
+    "english": "loving",
+    "bangla": "স্নেহশীল"
+  }
+]

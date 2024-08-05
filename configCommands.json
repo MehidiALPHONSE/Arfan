@@ -1,0 +1,59 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": "t1JU6uhmL8Vq9f1tNtaLqTGtauvMkkaJ"
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "birthday": {},
+    "country": {
+      "reward": 500
+    },
+    "pokemon": {
+      "reward": 60
+    },
+    "qr": {},
+    "quiz": {
+      "reward": 0
+    },
+    "about": {},
+    "gay": {
+      "deltaNext": 5
+    },
+    "wordmatch": {
+      "reward": 25
+    }
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "nude.js",
+    "character.js",
+    "pair.js",
+    "jonny.js"
+  ]
+}
